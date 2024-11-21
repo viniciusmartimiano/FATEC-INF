@@ -6,13 +6,13 @@ Uma breve descrição do que o projeto faz e como ele pode ser útil. Este é um
 
 ## ✨ Funcionalidades
 
-- ✅ Funcionalidade 1: Descrição da primeira funcionalidade.
-- ✅ Funcionalidade 2: Descrição da segunda funcionalidade.
-- ✅ Funcionalidade 3: Descrição da terceira funcionalidade.
+- ✅ armazenar os projetos de aulas e feitos ao longo do cruso 
+ 
 
 ---
 
-## 📸 Demonstração
+## 📸![image](https://github.com/user-attachments/assets/8fd80399-3508-487b-bb09-c03cfdbb5562)
+
 
 Aqui você pode adicionar uma imagem ou gif do seu projeto em ação. Isso ajuda os usuários a entenderem rapidamente como ele funciona.
 

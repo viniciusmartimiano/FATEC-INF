@@ -11,7 +11,8 @@ Aprendi a utilizar o Excel para criar gráficos que ajudam na visualização e a
 - **Objetivo**: Apresentar dados de maneira visual para facilitar a interpretação e análise.
 - **Exemplo**: Análise de vendas de produtos ao longo do tempo.
 
----
+---![image](https://github.com/user-attachments/assets/f52419ab-7ee4-4a5a-a5b8-04f31cb5ba93)
+
 
 ## 📊 Introdução ao Power BI
 

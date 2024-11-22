@@ -21,7 +21,8 @@ Com o Power BI, aprendi a criar dashboards e relatórios interativos a partir de
 - **Objetivo**: Criar painéis de controle interativos para análise de dados em tempo real.
 - **Exemplo**: Relatório de desempenho de vendas e estoque.
 
----
+---![image](https://github.com/user-attachments/assets/7cc6e68a-947c-4dbd-b974-ce2e22cd474e)
+
 
 ## 🖥️ Power Apps - Banco de Dados para Padaria
 

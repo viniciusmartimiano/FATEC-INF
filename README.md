@@ -1,40 +1,56 @@
-# 🚀 Nome do Projeto
+# 📊 Portfólio - Primeiro Semestre de Informática
 
-Uma breve descrição do que o projeto faz e como ele pode ser útil. Este é um exemplo criativo de como documentar seu código de maneira simples e eficiente.
-
----
-
-## ✨ Funcionalidades
-
-- ✅ armazenar os projetos de aulas e feitos ao longo do cruso 
- 
+Bem-vindo ao meu portfólio do primeiro semestre de Informática! Meu nome é **Vinicius Vieira Martimiano**, e durante esse período, aprendi diversas ferramentas e técnicas que expandiram minhas habilidades em análise de dados e desenvolvimento de soluções. Abaixo estão alguns dos projetos que realizei:
 
 ---
 
-## 📸![image](https://github.com/user-attachments/assets/8fd80399-3508-487b-bb09-c03cfdbb5562)
+## 📈 Gráficos no Excel
 
+Aprendi a utilizar o Excel para criar gráficos que ajudam na visualização e análise de dados. Durante o semestre, explorei diferentes tipos de gráficos, como gráficos de barras, linhas, pizza e outros, para representar informações de forma clara e eficaz.
 
-Aqui você pode adicionar uma imagem ou gif do seu projeto em ação. Isso ajuda os usuários a entenderem rapidamente como ele funciona.
-
-![Imagem do Projeto](url_da_imagem_ou_gif)
-
----
-
-## 🔧 Tecnologias Usadas
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
-- **Linguagem 1** (ex: Python)
-- **Linguagem 2** (ex: JavaScript)
-- **Framework 1** (ex: React)
-- **Banco de Dados 1** (ex: MySQL)
+- **Objetivo**: Apresentar dados de maneira visual para facilitar a interpretação e análise.
+- **Exemplo**: Análise de vendas de produtos ao longo do tempo.
 
 ---
 
-## 🛠️ Como Rodar o Projeto
+## 📊 Introdução ao Power BI
 
-Siga estas etapas para rodar o projeto em sua máquina local:
+Com o Power BI, aprendi a criar dashboards e relatórios interativos a partir de conjuntos de dados. Usei essa ferramenta para realizar análises mais profundas e criar visualizações dinâmicas e interativas, que podem ser compartilhadas facilmente.
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+- **Objetivo**: Criar painéis de controle interativos para análise de dados em tempo real.
+- **Exemplo**: Relatório de desempenho de vendas e estoque.
+
+---
+
+## 🖥️ Power Apps - Banco de Dados para Padaria
+
+No Power Apps, criei um banco de dados para uma padaria, que gerencia produtos, estoque e vendas. A aplicação permite o cadastro de produtos, controle de quantidade disponível e facilita o gerenciamento de vendas, sendo uma solução prática e eficiente para pequenas empresas.
+
+![Power Apps - Banco de Dados Padaria]![image](https://github.com/user-attachments/assets/661cfb6d-05a1-40b6-b86c-c758ecdcd5a2)
+  
+*Exemplo do aplicativo criado para gerenciar produtos de uma padaria.*
+
+- **Objetivo**: Automatizar o controle de produtos e facilitar a gestão de estoque e vendas.
+- **Exemplo**: Cadastro de produtos, monitoramento de estoque e visualização de vendas.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- **Microsoft Excel**: Para criação de gráficos e análise de dados.
+- **Power BI**: Para visualização e análise interativa de dados.
+- **Power Apps**: Para desenvolvimento de um banco de dados de produtos para uma padaria.
+
+---
+
+## 💬 Contato
+
+- **GitHub**: [@viniciusvieiramartimiano](https://github.com/viniciusmartimiano/FATEC-INF/edit/main/README.md)
+
+- **E-mail**: vinicius.martimiano@fatec.sp.gov.br
+- (12) 982238879
+
+---
+
+Agradeço por visitar meu portfólio e espero que o conteúdo seja útil para você entender melhor os projetos e habilidades que adquiri até agora!
+
